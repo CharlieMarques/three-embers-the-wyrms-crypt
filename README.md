@@ -2,7 +2,7 @@
 
 Prototipo de nivel de acción **top-down** inspirado en *Diablo II*, hecho en **Unity 6 (URP)**. Recorré la cripta, encendé las **tres llamas** para abrir la cripta del Dragón, derrotá al **Dragón Ancestral** y escapá por el portal.
 
-> 🎮 **Jugalo en el navegador:** [itch.io](https://LINK-A-ITCH.itch.io/three-embers) 
+> 🎮 **Jugalo en el navegador:** [itch.io](https://devshera.itch.io/three-embers-the-wyrms-crypt) 
 
 ---
 
@@ -43,7 +43,7 @@ Prototipo de nivel de acción **top-down** inspirado en *Diablo II*, hecho en **
 1. Clonar el repositorio:
 
 ```sh
-git clone https://github.com/USUARIO/REPO.git
+git clone https://github.com/CharlieMarques/three-embers-the-wyrms-crypt.git
 ```
 
 2. En **Unity Hub**: *Add \> Add project from disk* y elegir la carpeta del proyecto.  
