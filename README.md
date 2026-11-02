@@ -110,4 +110,4 @@ El código prioriza **componentes pequeños con una sola responsabilidad** y com
 
 **Carlos Matías Marques** 📧 [Charlie.Marques92@gmail.com](mailto:Charlie.Marques92@gmail.com)
 
-Proyecto realizado para la **Licenciatura en Diseño de Videojuegos** (Universidad de la Ciudad de Buenos Aires).
+Proyecto realizado para la **Licenciatura en Desarrollo y Produccion de Videojuegos** (Universidad de la Ciudad de Buenos Aires).
