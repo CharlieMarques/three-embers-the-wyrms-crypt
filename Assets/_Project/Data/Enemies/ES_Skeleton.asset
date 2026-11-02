@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fd8ce050a0b12742a613cb7debf767e, type: 3}
+  m_Name: ES_Skeleton
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyStats
+  maxHealth: 80
+  meleeDamageMultiplier: 1
+  rangedDamageMultiplier: 1
+  attackDamage: 5
+  attackRange: 1.8
+  attackCooldown: 1.2
+  firstAttackDelay: 0.4
+  patrolSpeed: 2
+  chaseSpeed: 4.5
+  detectionRange: 10
+  loseTargetRange: 14
